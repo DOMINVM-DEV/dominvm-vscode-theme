@@ -13,8 +13,8 @@ A refined light theme built on a warm, cream-toned palette that eliminates the h
 - **Editor Background**: Warm White `#FFF9F0`
 - **UI Surfaces**: Palladian `#EFE9E0`, Taupe Mist `#DFD9D0`, Timberwolf `#CFC9C0`
 - **Text**: Dark Rosewood `#402020`
-- **Accents & Links**: DOMINVM Rust `#CC3300`, DOMINVM Brown `#993300`
-- **Headers**: Bold DOMINVM Rust `#CC3300`
+- **Accents & Links**: Dominvm Rust `#CC3300`, Dominvm Brown `#993300`
+- **Headers**: Bold Dominvm Rust `#CC3300`
 
 ### Dominvm Dark
 
@@ -54,8 +54,8 @@ For the full Dominvm experience, add this to your VS Code `settings.json`:
 | Taupe Mist        | `#DFD9D0` | Light activity bar / borders |
 | Timberwolf        | `#CFC9C0` | Light title bar / shadows    |
 | Dark Rosewood     | `#402020` | Light text / Dark UI surface |
-| DOMINVM Rust      | `#CC3300` | Light accents & headers      |
-| DOMINVM Brown     | `#993300` | Light icons & constants      |
+| Dominvm Rust      | `#CC3300` | Light accents & headers      |
+| Dominvm Brown     | `#993300` | Light icons & constants      |
 | Dark Charcoal     | `#100505` | Dark editor background       |
 | Woodsmoke         | `#201010` | Dark sidebar / surfaces      |
 | Atomic Tangerine  | `#FF9966` | Dark accents & editor text   |
