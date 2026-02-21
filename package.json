@@ -1,9 +1,10 @@
 {
     "name": "dominvm-theme",
-    "displayName": "DOMINVM",
-    "description": "DOMINVM Light and Dark Themes",
-    "version": "1.0.0",
-    "publisher": "dominvm",
+    "displayName": "Dominvm Theme",
+    "description": "Dominvm Light and Dark Themes",
+    "version": "1.0.2",
+    "icon": "dominvm-logo.png",
+    "publisher": "DOMINVM",
     "engines": {
         "vscode": "^1.80.0"
     },
