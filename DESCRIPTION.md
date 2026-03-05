@@ -1,6 +1,6 @@
 # Dominvm — VS Code Theme
 
-A collection of carefully crafted **Light** and **Dark** color themes for Visual Studio Code in three warm-toned palettes — **Original**, **Green**, and **Blue** — designed for legibility, reduced eye strain, and a luxurious aesthetic.
+A collection of carefully crafted **Light**, **Dark**, and **Dark Solarized** color themes for Visual Studio Code in three warm-toned palettes — **Original**, **Green**, and **Blue** — designed for legibility, reduced eye strain, and a luxurious aesthetic.
 
 ---
 
@@ -62,6 +62,36 @@ A midnight-toned dark theme with deep indigo undertones for focused late-night c
 
 - **Editor Background**: Midnight Ink `#050810`
 - **UI Surfaces**: Dark Navy `#101520`, Deep Indigo `#152030`
+- **UI Text**: Pale Steel `#B0C4D4`
+- **Editor Text & Accents**: Sky Blue `#64B5F6`
+- **Headers**: Bold Rose Quartz `#F48FB1`
+
+### Dominvm Dark Solarized
+
+A warm, lifted-dark theme with rosewood mid-tones — softer contrast than full dark for extended comfort.
+
+- **Editor Background**: Rosewood Dusk `#201215`
+- **UI Surfaces**: Claret Ash `#2D1B1E`, Burgundy Smoke `#382428`
+- **UI Text**: Warm Cream `#D4C4B0`
+- **Editor Text & Accents**: Atomic Tangerine `#FF9966`
+- **Headers**: Bold Pink `#FF99CC`
+
+### Dominvm Green Dark Solarized
+
+A nature-forward solarized dark theme with mossy mid-tones for ambient, relaxed coding.
+
+- **Editor Background**: Fern Dusk `#122012`
+- **UI Surfaces**: Moss Shadow `#1B2D1B`, Pine Smoke `#243824`
+- **UI Text**: Pale Sage `#BCD4B0`
+- **Editor Text & Accents**: Spring Green `#66BB6A`
+- **Headers**: Bold Orchid Bloom `#CE93D8`
+
+### Dominvm Blue Dark Solarized
+
+A refined solarized dark theme with deep cobalt mid-tones — the warmth of twilight in a code editor.
+
+- **Editor Background**: Cobalt Dusk `#0C1828`
+- **UI Surfaces**: Sapphire Ash `#142235`, Navy Smoke `#1C2C42`
 - **UI Text**: Pale Steel `#B0C4D4`
 - **Editor Text & Accents**: Sky Blue `#64B5F6`
 - **Headers**: Bold Rose Quartz `#F48FB1`
@@ -137,6 +167,20 @@ For the full Dominvm experience, add this to your VS Code `settings.json`:
 | Deep Indigo       | `#152030` | Dark UI surface              |
 | Sky Blue          | `#64B5F6` | Dark accents & editor text   |
 | Pale Steel        | `#B0C4D4` | Dark UI chrome text          |
+
+### Solarized Surfaces
+
+| Name              | Hex       | Family   | Usage                     |
+|-------------------|-----------|----------|---------------------------|
+| Rosewood Dusk     | `#201215` | Original | Solarized editor BG       |
+| Claret Ash        | `#2D1B1E` | Original | Solarized sidebar         |
+| Burgundy Smoke    | `#382428` | Original | Solarized activity bar    |
+| Fern Dusk         | `#122012` | Green    | Solarized editor BG       |
+| Moss Shadow       | `#1B2D1B` | Green    | Solarized sidebar         |
+| Pine Smoke        | `#243824` | Green    | Solarized activity bar    |
+| Cobalt Dusk       | `#0C1828` | Blue     | Solarized editor BG       |
+| Sapphire Ash      | `#142235` | Blue     | Solarized sidebar         |
+| Navy Smoke        | `#1C2C42` | Blue     | Solarized activity bar    |
 
 ---
 

@@ -1,8 +1,8 @@
 {
     "name": "dominvm-theme",
     "displayName": "Dominvm Theme",
-    "description": "Dominvm Light, Dark, Green, and Blue Themes",
-    "version": "1.1.0",
+    "description": "Dominvm Light, Dark, Green, Blue, and Solarized Themes",
+    "version": "1.2.0",
     "icon": "dominvm-logo.png",
     "publisher": "DOMINVM",
     "engines": {
@@ -47,6 +47,21 @@
                 "label": "Dominvm Blue Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dominvm-blue-dark-color-theme.json"
+            },
+            {
+                "label": "Dominvm Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Green Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-green-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Blue Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-blue-dark-solarized-color-theme.json"
             }
         ]
     }
