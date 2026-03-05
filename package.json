@@ -1,8 +1,8 @@
 {
     "name": "dominvm-theme",
     "displayName": "Dominvm Theme",
-    "description": "Dominvm Light, Dark, Green, Blue, and Solarized Themes",
-    "version": "1.2.0",
+    "description": "Dominvm Light, Dark, and Solarized Themes in 11 Color Families",
+    "version": "1.3.0",
     "icon": "dominvm-logo.png",
     "publisher": "DOMINVM",
     "engines": {
@@ -62,6 +62,86 @@
                 "label": "Dominvm Blue Dark Solarized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dominvm-blue-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Teal Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-teal-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Teal Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-teal-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Grey Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-grey-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Grey Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-grey-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Sepia Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-sepia-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Sepia Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-sepia-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Yellow Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-yellow-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Yellow Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-yellow-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Orange Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-orange-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Orange Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-orange-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Red Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-red-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Red Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-red-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Pink Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-pink-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Pink Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-pink-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Purple Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-purple-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Purple Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-purple-dark-solarized-color-theme.json"
             }
         ]
     }
