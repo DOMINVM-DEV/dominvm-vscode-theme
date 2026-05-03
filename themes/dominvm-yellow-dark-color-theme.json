@@ -240,7 +240,13 @@
         "settings.modifiedItemIndicator": "#FFD54F",
         "settings.focusedRowBackground": "#FFD54F10",
         "settings.rowHoverBackground": "#1C1A0E80",
-        "editorGhostText.foreground": "#5F5D4A"
+        "editorGhostText.foreground": "#5F5D4A",
+        "chat.slashCommandBackground": "#FFD54F",
+        "chat.slashCommandForeground": "#0E0E05",
+        "chat.avatarBackground": "#FFD54F",
+        "chat.avatarForeground": "#0E0E05",
+        "chat.requestBackground": "#1C1A0E",
+        "chat.requestBorder": "#FFD54F"
     },
     "tokenColors": [
         {
