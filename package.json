@@ -1,8 +1,8 @@
 {
     "name": "dominvm-theme",
     "displayName": "Dominvm Theme",
-    "description": "33 Premium Light, Dark, and Solarized Themes in 11 Color Families",
-    "version": "1.5.0",
+    "description": "45 Premium Light, Dark, and Solarized Themes in 15 Color Families",
+    "version": "2.1.0",
     "icon": "dominvm-logo.png",
     "publisher": "DOMINVM",
     "engines": {
@@ -182,6 +182,66 @@
                 "label": "Dominvm Purple Dark Solarized",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dominvm-purple-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Baby Blue Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-babyblue-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Baby Blue Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-babyblue-dark-color-theme.json"
+            },
+            {
+                "label": "Dominvm Baby Blue Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-babyblue-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Lime Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-lime-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Lime Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-lime-dark-color-theme.json"
+            },
+            {
+                "label": "Dominvm Lime Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-lime-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Pink Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-miamipink-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Pink Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-miamipink-dark-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Pink Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-miamipink-dark-solarized-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Blue Light",
+                "uiTheme": "vs",
+                "path": "./themes/dominvm-miamiblue-light-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Blue Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-miamiblue-dark-color-theme.json"
+            },
+            {
+                "label": "Dominvm Miami Blue Dark Solarized",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dominvm-miamiblue-dark-solarized-color-theme.json"
             }
         ]
     }
