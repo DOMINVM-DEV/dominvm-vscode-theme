@@ -1,6 +1,6 @@
 # D O M I N V M — VS Code Theme
 
-**33 premium color themes** · **11 color families** · **Light + Dark + Dark Solarized**
+**33 premium color themes** · **15 color families** · **Light + Dark + Dark Solarized**
 
 > Every Dominvm theme is crafted — not generated — with WCAG AA contrast compliance, ergonomic tinted backgrounds, and 239 color tokens for complete VS Code coverage.
 
@@ -10,15 +10,11 @@
 
 ### Original (Warm Red)
 
-![Original — Light · Dark · Dark Solarized](images/preview-original.png)
-
 A refined palette built on warm rosewood tones. The Light variant uses a cream `#FFF9F0` background with Rust `#CC3300` accents. The Dark variant features a deep charcoal with Tangerine `#FF9966` highlights. The Dark Solarized lifts the background to `#201215` for extended comfort.
 
 ---
 
 ### Green
-
-![Green — Light · Dark · Dark Solarized](images/preview-green.png)
 
 Nature-inspired with soft sage and mint tones. Light uses Mint Cream `#F5FAF0`, Dark plunges to Deep Forest `#0C1A0C`, and Dark Solarized lifts to Fern Dusk `#122012`. Accents: Spring Green `#66BB6A`.
 
@@ -26,15 +22,11 @@ Nature-inspired with soft sage and mint tones. Light uses Mint Cream `#F5FAF0`, 
 
 ### Blue
 
-![Blue — Light · Dark · Dark Solarized](images/preview-blue.png)
-
 Cool-toned and professional. Light uses Ice Wash `#F0F5FA`, Dark features Midnight `#0C1420`, and Dark Solarized lifts to Cobalt Dusk `#0C1828`. Accents: Sky Blue `#64B5F6`.
 
 ---
 
 ### Teal
-
-![Teal — Light · Dark · Dark Solarized](images/preview-teal.png)
 
 Oceanic and refreshing. Light uses Aqua Mist `#F0FAF8`, Dark dives to Abyssal `#051210`, and Dark Solarized lifts to Deep Lagoon `#0E2025`. Accents: Aquamarine `#4DB6AC`.
 
@@ -42,15 +34,11 @@ Oceanic and refreshing. Light uses Aqua Mist `#F0FAF8`, Dark dives to Abyssal `#
 
 ### Grey
 
-![Grey — Light · Dark · Dark Solarized](images/preview-grey.png)
-
 Minimalist and distraction-free. Light uses Platinum `#F5F5F7`, Dark features Charcoal `#101012`, and Dark Solarized lifts to Onyx `#1A1A1E`. Accents: Blue Grey `#90A4AE`.
 
 ---
 
 ### Sepia
-
-![Sepia — Light · Dark · Dark Solarized](images/preview-sepia.png)
 
 Warm and vintage-inspired. Light uses Parchment `#FAF5EB`, Dark features Espresso `#120E0A`, and Dark Solarized lifts to Leather `#1E1814`. Accents: Amber `#D7A86E`.
 
@@ -58,15 +46,11 @@ Warm and vintage-inspired. Light uses Parchment `#FAF5EB`, Dark features Espress
 
 ### Yellow
 
-![Yellow — Light · Dark · Dark Solarized](images/preview-yellow.png)
-
 Sunlit and golden. Light uses Buttercream `#FFFDE8`, Dark features Olive Night `#0E0E05`, and Dark Solarized lifts to Amber Night `#1C1A0E`. Accents: Golden `#FFD54F`.
 
 ---
 
 ### Orange
-
-![Orange — Light · Dark · Dark Solarized](images/preview-orange.png)
 
 Sunset warmth and ember glow. Light uses Seashell `#FFF5EE`, Dark features deep Ember `#100A06`, and Dark Solarized lifts to Mahogany `#1E1410`. Accents: Coral `#FF8A65`.
 
@@ -74,23 +58,17 @@ Sunset warmth and ember glow. Light uses Seashell `#FFF5EE`, Dark features deep 
 
 ### Red
 
-![Red — Light · Dark · Dark Solarized](images/preview-red.png)
-
 Sophisticated and dramatic. Light uses Rose White `#FFF5F5`, Dark features Garnet `#100608`, and Dark Solarized lifts to Wine `#1E1012`. Accents: Vermilion `#EF5350`.
 
 ---
 
 ### Pink
 
-![Pink — Light · Dark · Dark Solarized](images/preview-pink.png)
-
 Elegant and romantic. Light uses Blush White `#FFF5F9`, Dark features deep Plum `#10060C`, and Dark Solarized lifts to Plum Night `#1E1018`. Accents: Hot Pink `#F06292`.
 
 ---
 
 ### Purple
-
-![Purple — Light · Dark · Dark Solarized](images/preview-purple.png)
 
 Regal and opulent. Light uses Lavender Mist `#F8F5FF`, Dark features Byzantium `#0C0610`, and Dark Solarized lifts to Amethyst `#18101E`. Accents: Orchid `#CE93D8`.
 

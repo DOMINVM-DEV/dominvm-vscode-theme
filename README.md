@@ -1,8 +1,8 @@
-# <img src="dominvm-logo.png" width="28" align="top"> &ensp;D O M I N V M
+#  D O M I N V M
 
 ### Premium Color Themes for Visual Studio Code
 
-**33 meticulously crafted themes** across **11 color families** — each offering **Light**, **Dark**, and **Dark Solarized** variants engineered for visual comfort, accessibility, and a luxurious aesthetic.
+**45 meticulously crafted themes** across **15 color families** — each offering **Light**, **Dark**, and **Dark Solarized** variants engineered for visual comfort, accessibility, and a luxurious aesthetic.
 
 > *Dominvm transforms your editor into a refined workspace where every color serves a purpose — from reducing fatigue during marathon coding sessions to creating clear visual hierarchy between UI and content.*
 
@@ -34,8 +34,6 @@
 
 ### Original (Warm Red)
 
-![Original — Light · Dark · Dark Solarized](images/preview-original.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Light** | `#FFF9F0` Warm White | `#CC3300` Rust | `#402020` |
@@ -45,8 +43,6 @@
 ---
 
 ### Green
-
-![Green — Light · Dark · Dark Solarized](images/preview-green.png)
 
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
@@ -58,8 +54,6 @@
 
 ### Blue
 
-![Blue — Light · Dark · Dark Solarized](images/preview-blue.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Blue Light** | `#F0F5FA` Ice Wash | `#1565C0` Blue | `#1A2533` |
@@ -69,8 +63,6 @@
 ---
 
 ### Teal
-
-![Teal — Light · Dark · Dark Solarized](images/preview-teal.png)
 
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
@@ -82,8 +74,6 @@
 
 ### Grey
 
-![Grey — Light · Dark · Dark Solarized](images/preview-grey.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Grey Light** | `#F5F5F7` Platinum | `#607D8B` Blue Grey | `#252530` |
@@ -93,8 +83,6 @@
 ---
 
 ### Sepia
-
-![Sepia — Light · Dark · Dark Solarized](images/preview-sepia.png)
 
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
@@ -106,8 +94,6 @@
 
 ### Yellow
 
-![Yellow — Light · Dark · Dark Solarized](images/preview-yellow.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Yellow Light** | `#FFFDE8` Buttercream | `#9E7700` Dark Gold | `#33300A` |
@@ -117,8 +103,6 @@
 ---
 
 ### Orange
-
-![Orange — Light · Dark · Dark Solarized](images/preview-orange.png)
 
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
@@ -130,8 +114,6 @@
 
 ### Red
 
-![Red — Light · Dark · Dark Solarized](images/preview-red.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Red Light** | `#FFF5F5` Rose White | `#C62828` Crimson | `#3D1515` |
@@ -141,8 +123,6 @@
 ---
 
 ### Pink
-
-![Pink — Light · Dark · Dark Solarized](images/preview-pink.png)
 
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
@@ -154,13 +134,51 @@
 
 ### Purple
 
-![Purple — Light · Dark · Dark Solarized](images/preview-purple.png)
-
 | Theme | Background | Accent | Text |
 |-------|-----------|--------|------|
 | **Dominvm Purple Light** | `#F8F5FF` Lavender | `#7B1FA2` Deep Purple | `#281540` |
 | **Dominvm Purple Dark** | `#0C0610` Byzantium | `#CE93D8` Orchid | `#C8B8D4` |
 | **Dominvm Purple Dark Solarized** | `#18101E` Amethyst | `#CE93D8` Orchid | `#C8B8D4` |
+
+---
+
+### Baby Blue
+
+| Theme | Background | Accent | Text |
+|-------|-----------|--------|------|
+| **Dominvm Baby Blue Light** | `#F4FBFF` Airy White | `#0288D1` Baby Blue | `#1A2533` |
+| **Dominvm Baby Blue Dark** | `#081820` Deep Navy | `#81D4FA` Baby Blue | `#B0C4D4` |
+| **Dominvm Baby Blue Dark Solarized** | `#0A1C28` Solar Navy | `#81D4FA` Baby Blue | `#B0C4D4` |
+
+---
+
+### Lime
+
+| Theme | Background | Accent | Text |
+|-------|-----------|--------|------|
+| **Dominvm Lime Light** | `#FAFCF4` Off White | `#827717` Lime | `#1E3320` |
+| **Dominvm Lime Dark** | `#12160C` Obsidian | `#DCE775` Neon Lime | `#BCD4B0` |
+| **Dominvm Lime Dark Solarized** | `#141A0A` Solar Obsidian | `#DCE775` Neon Lime | `#BCD4B0` |
+
+---
+
+### Miami Pink
+
+| Theme | Background | Accent | Text |
+|-------|-----------|--------|------|
+| **Dominvm Miami Pink Light** | `#FFF5F8` Warm Pink | `#D81B60` Hot Magenta | `#3D1528` |
+| **Dominvm Miami Pink Dark** | `#160814` Deep Purple | `#FF4081` Neon Pink | `#D4B8C8` |
+| **Dominvm Miami Pink Dark Solarized** | `#1C0A18` Solar Purple | `#FF4081` Neon Pink | `#D4B8C8` |
+
+---
+
+### Miami Blue
+
+| Theme | Background | Accent | Text |
+|-------|-----------|--------|------|
+| **Dominvm Miami Blue Light** | `#F0FBFF` Icy Blue | `#00B0FF` Electric Cyan | `#1A2533` |
+| **Dominvm Miami Blue Dark** | `#0A121A` Deep Night | `#18FFFF` Neon Cyan | `#B0C4D4` |
+| **Dominvm Miami Blue Dark Solarized** | `#0D1A22` Solar Night | `#18FFFF` Neon Cyan | `#B0C4D4` |
 
 ---
 
